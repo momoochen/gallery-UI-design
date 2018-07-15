@@ -1,0 +1,22 @@
+html {
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0 auto;
+  background: #F2F2F2;
+  color: black;
+   h1 {
+    font-family: 'Open Sans', sans-serif;
+   }
+   h2 {
+    font-family: 'Bungee', cursive;
+   }
+}
